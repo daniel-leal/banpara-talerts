@@ -7,7 +7,11 @@ namespace TAlerts.App
     {
         static void Main(string[] args)
         {
-            CadastrarCliente();
+            var timer = new System.Threading.Timer(
+                e => CadastrarCliente(),
+                null,
+                TimeSpan.Zero,
+                TimeSpan.FromMinutes(5));
 
             Console.ReadKey();
         }
