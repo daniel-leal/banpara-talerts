@@ -13,3 +13,17 @@
 /Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/obj/Debug/net5.0/ref/TAlerts.App.dll
 /Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/obj/Debug/net5.0/TAlerts.App.pdb
 /Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/obj/Debug/net5.0/TAlerts.App.genruntimeconfig.cache
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/TAlerts.Domain.dll
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/bin/Debug/net5.0/TAlerts.Domain.pdb
+/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.App/obj/Debug/net5.0/TAlerts.App.csproj.CopyComplete

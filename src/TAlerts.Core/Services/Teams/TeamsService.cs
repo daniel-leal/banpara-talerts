@@ -1,22 +1,34 @@
 using System;
+using System.IO;
 using System.Net.Http;
 using System.Text;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
 namespace TAlerts.Core.Services.Teams
 {
     public class TeamsService
     {
+        private readonly string _url = string.Empty;
+
         private static readonly HttpClient HttpClient = new HttpClient();
+
+        public TeamsService()
+        {
+            var configurationBuilder = new ConfigurationBuilder();
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json");
+            configurationBuilder.AddJsonFile(path, false);
+
+            var root = configurationBuilder.Build();
+            _url = root.GetSection("ApplicationSettings").GetSection("TeamsWebHook").Value;
+        }
 
         public void Send(Request request)
         {
-            var url = "SUA URL DO TEAMS AQUI";
-
             var jsonRequest = JsonConvert.SerializeObject(request);
 
             var response = HttpClient.PostAsync(
-                url,
+                _url,
                 new StringContent(jsonRequest, Encoding.UTF8, "application/json")
             ).Result;
 

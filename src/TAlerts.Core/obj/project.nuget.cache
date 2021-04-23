@@ -1,9 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "/QUjIhLwO0Obq0MocMz7dF4V82vYxppCLNwrvI1pKR+Q8MjfvfK6nwJVyvpkn7qA+Ak16Hj0W7gOph1DKXCXyQ==",
+  "dgSpecHash": "EeQP/1MZNB080UPyq6Np0Jp6RSH/CM9uDmAuKAJnoTSFqwTl/D2ZxoT76/0bXBCczKQTlXj0lXnjlYnQ65Kkdw==",
   "success": true,
   "projectFilePath": "/Volumes/Leal HD/Projects/banpara/talerts/src/TAlerts.Core/TAlerts.Domain.csproj",
   "expectedPackageFiles": [
+    "/Users/daniel/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/daniel/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/daniel/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
